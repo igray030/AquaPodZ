@@ -1,0 +1,17 @@
+{
+  "maturity_scale": {
+    "Initial": 1,
+    "Developing": 2,
+    "Defined": 3,
+    "Managed": 4,
+    "Optimized": 5
+  },
+  "default_weight": 1.0,
+  "aggregation": {
+    "subcategory": "direct",
+    "category": "weighted_mean",
+    "function": "weighted_mean",
+    "overall": "weighted_mean"
+  },
+  "rounding": 2
+}

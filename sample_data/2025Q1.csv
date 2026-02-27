@@ -1,0 +1,16 @@
+function,category,subcategory,maturity,weight
+ID,AM,ID.AM-1,Initial,1.0
+ID,GV,ID.GV-1,Developing,1.5
+ID,RA,ID.RA-1,Defined,1.0
+PR,AC,PR.AC-1,Developing,1.5
+PR,DS,PR.DS-1,Defined,1.0
+PR,IP,PR.IP-1,Managed,1.5
+DE,CM,DE.CM-1,Defined,1.0
+DE,DP,DE.DP-1,Managed,1.5
+DE,AE,DE.AE-1,Optimized,1.0
+RS,RP,RS.RP-1,Managed,1.5
+RS,CO,RS.CO-1,Optimized,1.0
+RS,AN,RS.AN-1,Initial,1.5
+RC,RP,RC.RP-1,Optimized,1.0
+RC,IM,RC.IM-1,Initial,1.5
+RC,CO,RC.CO-1,Developing,1.0
